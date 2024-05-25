@@ -23,3 +23,12 @@ UserStory:
    2.2 Стрелочка назад, выход/разлогирование
 3. Экран детальной информации
    3.1 Выход с экрана
+
+
+<img src="https://github.com/Egorchik4/PremierApp/assets/91664554/37aa7d83-3a5c-4ae2-b26b-44f2cacba088" width="200" />
+<img src="https://github.com/Egorchik4/PremierApp/assets/91664554/4f4edd58-94e0-4f55-8cf1-116aec7dbb12" width="200" />
+<img src="https://github.com/Egorchik4/PremierApp/assets/91664554/a9553fd8-ccb4-40ee-87a1-aa270fd14438" width="200" />
+<img src="https://github.com/Egorchik4/PremierApp/assets/91664554/0696f7a8-0e38-4da8-a9da-a6361b2408ac" width="200" />
+
+
+
